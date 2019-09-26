@@ -1,5 +1,5 @@
 # RustEdit-Unity
-Basic Unity based map editor for Rust made for Snowballfred
+Basic Unity based map editor for Rust
 
 Made in Unity 2019.2.0f1
 
@@ -9,9 +9,9 @@ The editor runs in edit mode of Unity. Attempting to run in play mode will only 
 
 To get started select the "WorldManager" object in the hierarchy. 
 
-Before you start making dopeasf maps select your Rust install directory (/steamapps/common/Rust/). This path will be saved to PlayerPrefs and the editor will automatically load the required asset bundles when loaded. 
+Before you start making dopeasf maps select your Rust install directory (/steamapps/common/Rust/) by clicking "Select Rust Directory"
 
-The path can be changed at anytime by clicking "Select Rust Directory"
+The path can be changed at anytime by clicking "Select Rust Directory" again.
 
 # World Manager
 The WorldManager object is where you create/load and save maps.
@@ -50,6 +50,6 @@ PathNode objects have a custom inspector that will show you the index of the nod
 # Other Shit
 The asset bundles will automatically unload and reload when any project assets are changed.
 
-I have no intention of continuing development of this project so don't ask me for support or to make changes.
+I have no intention of continuing development or providing support for this project. It was quickly chucked together as a favour for a friend.
 
 Feel free to fork this repository and do with it as you wish.

@@ -1,6 +1,10 @@
 # RustEdit-Unity
 Basic Unity based map editor for Rust made for Snowballfred
 
+Made in Unity 2019.2.0f1
+
+Requires that you have the EditorCoroutines package installed from the package manager (https://docs.unity3d.com/Packages/com.unity.editorcoroutines@0.0/manual/index.html)
+
 The editor runs in edit mode of Unity. Attempting to run in play mode will only force a reload of the asset bundles.
 
 To get started select the "WorldManager" object in the hierarchy. 

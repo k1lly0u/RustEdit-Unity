@@ -28,6 +28,8 @@ To paint those texture select the Terrain object from the hierarchy and use the 
 # Prefab Manager
 Allows you to spawn prefabs. Select the prefab you want to spawn via the dropdown menu and click "Spawn"
 
+The prefab list is not filtered for what can and can't be used. There will be 100's of unusable prefabs in it
+
 If you are spawning prefabs from outside of the inspector (third party plugins), ensure all spawned prefabs have a PrefabData component attached to them.
 
 Prefabs without a PrefabData component will be ignored when saving the map

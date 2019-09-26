@@ -9,7 +9,7 @@ The editor runs in edit mode of Unity. Attempting to run in play mode will only 
 
 To get started select the "WorldManager" object in the hierarchy. 
 
-Before you begin select your Rust install directory (/steamapps/common/Rust/). This path will be saved to PlayerPrefs and the editor will automatically load the required asset bundles when loaded. 
+Before you start making dopeasf maps select your Rust install directory (/steamapps/common/Rust/). This path will be saved to PlayerPrefs and the editor will automatically load the required asset bundles when loaded. 
 
 The path can be changed at anytime by clicking "Select Rust Directory"
 

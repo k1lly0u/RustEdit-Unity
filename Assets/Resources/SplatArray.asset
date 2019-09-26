@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb7565a0fd4e3db4783950e7215025e6, type: 3}
+  m_Name: SplatArray
+  m_EditorClassIdentifier: 
+  TerrainLayers:
+  - {fileID: 8574412962073106934, guid: 5a3082768d0cf694081d520e883079b5, type: 2}
+  - {fileID: 8574412962073106934, guid: d6ccbb4dd42e48142a17b00d3c04489a, type: 2}
+  - {fileID: 8574412962073106934, guid: 151a3a9e48e960d4288ea8f61745e8b5, type: 2}
+  - {fileID: 8574412962073106934, guid: 8362bd6a02f5d8d40b8b9a6290a5ff77, type: 2}
+  - {fileID: 8574412962073106934, guid: 6c017177e4be61e43838175a19fb92d2, type: 2}
+  - {fileID: 8574412962073106934, guid: d737ec16942b5ee4dbb3944d43dcc45e, type: 2}
+  - {fileID: 8574412962073106934, guid: 76582714b6344eb489fb6bcab760954a, type: 2}
+  - {fileID: 8574412962073106934, guid: 2e80b6070b6e382418835e457928b6d2, type: 2}

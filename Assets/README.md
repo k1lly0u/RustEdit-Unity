@@ -110,7 +110,9 @@ compiled.
 Once you have built the bundles, hit __Build game__ in the game section.
 This builds the standalone player. Again, first time will be slow.
 
-> __NOTE__: Due to a limitation in Unity 2018.3, you have to look out for errors like this `Maximum number (256) of shader keywords exceeded, keyword <KEYWORD_NAME> will be ignored.` and similar. If you get these, you can close and open Unity and then try and build again. The errors are relatively harmless but can lead to graphical artifacts as some shaders will have wrong keywords.
+> __NOTE__: Due to a limitation in Unity 2018.3, you have to look out for errors like this `Maximum number (256) of shader keywords exceeded, 
+keyword <KEYWORD_NAME> will be ignored.` and similar. If you get these, you can close and open Unity and then try and build again. 
+The errors are relatively harmless but can lead to graphical artifacts as some shaders will have wrong keywords.
 
 ### Using the quick start launcher
 

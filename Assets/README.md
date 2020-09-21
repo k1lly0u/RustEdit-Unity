@@ -28,6 +28,11 @@ In the case of ECS, we have primarily adopted the "ECS-pattern" and use it in
 hybrid mode with a lot of regular components. As more and more features of
 Unity become available in ECS-aware versions, we will migrate to them.
 
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
 ## Status and prerequisites
 
 Current status at a glance:
